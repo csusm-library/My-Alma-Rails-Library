@@ -17,3 +17,8 @@
 
 config/application.yml
 .elasticbeanstalk/
+.idea/.generators
+.idea/modules.xml
+.idea/my-alma.iml
+.idea/vcs.xml
+.idea/workspace.xml
